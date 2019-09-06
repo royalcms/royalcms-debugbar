@@ -15,7 +15,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9"
+        "php": ">=5.5.9",
+        "maximebf/debugbar": "^1.15"
     },
     "autoload": {
         "psr-4": {
